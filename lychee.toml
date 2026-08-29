@@ -1,0 +1,7 @@
+# These authoritative resources reject GitHub-hosted automated probes. Keep the
+# exceptions exact and recheck them manually during the monthly catalogue review.
+exclude = [
+  "^https://www\\.equalityhumanrights\\.com/equality/equality-act-2010/codes-practice/employment-statutory-code-practice$",
+  "^https://www\\.openskillsnetwork\\.org/$",
+  "^https://www\\.openskillsnetwork\\.org/rsd$",
+]

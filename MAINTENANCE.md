@@ -20,8 +20,8 @@ not count as human maintenance.
 
 - Weekly: automated link and catalogue-policy checks.
 - Monthly: human review of failures, open contributions and time-sensitive UK
-  employment links; record completion in a dated GitHub issue or merged pull
-  request.
+  employment links, including the exact automated-check exceptions in
+  `lychee.toml`; record completion in a dated GitHub issue or merged pull request.
 - Quarterly: review category coverage, project activity, licences and whether
   commercial entries still provide independent value.
 - Annually: reconsider the scope, licence, accountable owner and whether the

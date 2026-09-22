@@ -156,6 +156,10 @@ adopting any HR system.
   — discovery metadata for OAuth-protected APIs and MCP servers.
 - [Standard Webhooks](https://www.standardwebhooks.com/) — an open set of
   conventions for signing and verifying webhook deliveries.
+- [Screening Decisions Profile](https://github.com/Allowly-AI/screening-decisions-profile)
+  — a draft vocabulary and validators for employment-screening decisions,
+  reviews, corrections and audit exports; code Apache-2.0, specification CC BY
+  4.0.
 
 ## Developer resources
 

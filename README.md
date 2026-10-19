@@ -158,6 +158,7 @@ adopting any HR system.
   conventions for signing and verifying webhook deliveries.
 
 ## Developer resources
+- [HRPay Pick Employee Cost Calculator](https://hrpaypick.com/employee-cost-calculator/) — free estimator for true employer cost beyond base pay (taxes/benefits context).
 
 - [HollyHR developer docs](https://developers.hollyhr.com) — REST API, OpenAPI,
   TypeScript SDK, webhooks and hosted MCP from this list's maintainers.

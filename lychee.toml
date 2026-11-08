@@ -4,4 +4,8 @@ exclude = [
   "^https://www\\.equalityhumanrights\\.com/equality/equality-act-2010/codes-practice/employment-statutory-code-practice$",
   "^https://www\\.openskillsnetwork\\.org/$",
   "^https://www\\.openskillsnetwork\\.org/rsd$",
+  # ico.org.uk has returned 403 to GitHub runners since 2 November 2026. Both
+  # pages load normally in a browser (checked 8 November 2026).
+  "^https://ico\\.org\\.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/$",
+  "^https://ico\\.org\\.uk/for-organisations/advice-for-small-organisations/$",
 ]

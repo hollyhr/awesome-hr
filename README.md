@@ -55,7 +55,7 @@
 
 ## UK skills and apprenticeships
 
-- [Employing an apprentice](https://www.gov.uk/guidance/how-to-take-on-an-apprentice) - Contracts, training, funding and employer duties.
+- [Employing an apprentice](https://www.gov.uk/guidance/how-to-take-on-an-apprentice) - Contracts, training and employer duties, with funding rules for England.
 - [National Careers Service skills assessment](https://nationalcareers.service.gov.uk/skills-assessment) - A free starting point for reflecting on skills and suitable work.
 
 ## Accessibility and security

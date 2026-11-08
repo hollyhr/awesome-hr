@@ -33,8 +33,10 @@ Each entry should pass all of these checks:
 
 Commercial vendors may propose public specifications, developer documentation
 or genuinely reusable research. Product-directory entries, generic vendor
-homepages and a vendor's own tools remain out of scope. That includes HollyHR,
-the maintainer's company.
+homepages and tools hosted on vendor or review sites (such as cost calculators)
+remain out of scope. Open-source HR software is judged on its licence, release
+history and maintenance, whoever maintains it. HollyHR, the maintainer's
+company, does not list its own products.
 
 The UK sections are the list's focus. Other jurisdictions are welcome if you
 can vouch for the source; label them clearly, as the UK sections are.

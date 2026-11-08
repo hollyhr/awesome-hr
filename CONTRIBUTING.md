@@ -32,8 +32,12 @@ Each entry should pass all of these checks:
   promotion.
 
 Commercial vendors may propose public specifications, developer documentation
-or genuinely reusable research. Product-directory entries and generic vendor
-homepages remain out of scope.
+or genuinely reusable research. Product-directory entries, generic vendor
+homepages and a vendor's own tools remain out of scope. That includes HollyHR,
+the maintainer's company.
+
+The UK sections are the list's focus. Other jurisdictions are welcome if you
+can vouch for the source; label them clearly, as the UK sections are.
 
 ## What we do not accept
 
@@ -45,6 +49,11 @@ homepages remain out of scope.
 - duplicate resources that add no meaningful coverage.
 
 Maintainers may decline additions to keep the list focused.
+
+## Maintainer
+
+Paul Gould (`@paulgould`) is the accountable maintainer. The review cadence,
+quality bar and continuity rules are in [MAINTENANCE.md](MAINTENANCE.md).
 
 ## Maintenance changes
 

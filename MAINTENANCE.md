@@ -27,24 +27,14 @@ not count as human maintenance.
 - Annually: reconsider the scope, licence, accountable owner and whether the
   list is earning external use or contributions.
 
-## Quality and growth target
+## Quality bar
 
-The catalogue starts this programme with more than 50 quality resources. The
-target is at least 100 individually useful resources by 31 October 2026 without
-lowering the contribution standard.
-
-Milestones:
-
-1. Establish ownership, policy automation and 50+ authoritative resources.
-2. Reach 75 resources with balanced UK employment, people practice, open-source
-   and interoperability coverage by 30 September 2026.
-3. Reach 100 resources by 31 October 2026, including at least ten accepted or
-   substantively improved community suggestions across the programme.
-
-Counts are a progress signal, not the acceptance criterion. One authoritative,
-maintained resource is worth more than several generic articles or vendor links.
-The automated floor prevents accidental catalogue shrinkage; it must only be
-raised after the corresponding resources are merged.
+One authoritative, maintained resource is worth more than several generic
+articles or vendor links, so the list grows only when a resource earns its
+place. The earlier targets of 75 and 100 resources were dropped in November
+2026, when the list was cut to stay focused on HR. The automated floor in
+`scripts/check_catalogue.py` prevents accidental shrinkage; raise it only after
+the corresponding resources are merged.
 
 ## Measures
 
@@ -56,5 +46,5 @@ The monthly review records:
 - repository traffic, stars and referring sites when GitHub exposes them;
 - the date and owner of the next review.
 
-There is no paid placement. HollyHR resources are held to the same specificity,
-maintenance and usefulness standard as every other entry.
+There is no paid placement. HollyHR, the maintainer's company, does not list its
+own products.

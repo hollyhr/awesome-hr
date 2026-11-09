@@ -42,7 +42,7 @@
 - [Acas flexible working guidance](https://www.acas.org.uk/flexible-working) - Practical advice on handling requests well, beyond the legal minimum.
 - [Managing staff redundancies](https://www.acas.org.uk/manage-staff-redundancies) - Planning, consultation, selection and support, step by step.
 - [Reasonable adjustments at work](https://www.acas.org.uk/reasonable-adjustments) - How to discuss, agree and review adjustments with disabled staff.
-- [Acas: Employment Rights Act 2025](https://www.acas.org.uk/employment-rights-act-2025) - What has already changed under the Act, what is still to come and when, with links to Acas advice on each change.
+- [Acas: Employment Rights Act 2025](https://www.acas.org.uk/employment-rights-act-2025) - What has already changed under the Act, what is still to come and when, with links to relevant Acas advice.
 - [Employment statutory code of practice](https://www.equalityhumanrights.com/equality/equality-act-2010/codes-practice/employment-statutory-code-practice) - The Equality and Human Rights Commission's guide to applying equality law at work.
 - [HSE Management Standards for work-related stress](https://www.hse.gov.uk/stress/standards/) - A framework for spotting and managing common causes of stress at work.
 

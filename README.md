@@ -17,6 +17,7 @@
 - [Acas](https://www.acas.org.uk/) - Free, impartial guidance on workplace rights and employment practice for employers and workers.
 - [Employ people](https://www.gov.uk/browse/business/employ-people) - The GOV.UK index for hiring, contracts, payroll, leave and ending employment.
 - [Employ someone: step by step](https://www.gov.uk/employ-someone) - The official route through pay, checks, contracts, insurance and registration for a first hire.
+- [Implementing the Plan to Make Work Pay and Employment Rights Act](https://www.gov.uk/government/publications/implementing-the-plan-to-make-work-pay-and-employment-rights-act) - The government's timeline for when each Employment Rights Act 2025 change takes effect.
 - [Employment status and rights checklist](https://www.gov.uk/government/publications/employment-status-and-employment-rights/employment-status-and-rights-checklist-for-employers-and-other-engagers) - Helps employers tell employees, workers and self-employed people apart.
 - [Check employment status for tax](https://www.gov.uk/guidance/check-employment-status-for-tax) - HMRC's status tool and guidance for individual workers and engagements.
 - [Preventing discrimination when employing people](https://www.gov.uk/employer-preventing-discrimination) - Protected characteristics and fair recruitment responsibilities.
@@ -41,6 +42,7 @@
 - [Acas flexible working guidance](https://www.acas.org.uk/flexible-working) - Practical advice on handling requests well, beyond the legal minimum.
 - [Managing staff redundancies](https://www.acas.org.uk/manage-staff-redundancies) - Planning, consultation, selection and support, step by step.
 - [Reasonable adjustments at work](https://www.acas.org.uk/reasonable-adjustments) - How to discuss, agree and review adjustments with disabled staff.
+- [Acas: Employment Rights Act 2025](https://www.acas.org.uk/employment-rights-act-2025) - What has already changed under the Act, what is still to come and when, with links to Acas advice on each change.
 - [Employment statutory code of practice](https://www.equalityhumanrights.com/equality/equality-act-2010/codes-practice/employment-statutory-code-practice) - The Equality and Human Rights Commission's guide to applying equality law at work.
 - [HSE Management Standards for work-related stress](https://www.hse.gov.uk/stress/standards/) - A framework for spotting and managing common causes of stress at work.
 

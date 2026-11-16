@@ -22,9 +22,11 @@
 - [Check employment status for tax](https://www.gov.uk/guidance/check-employment-status-for-tax) - HMRC's status tool and guidance for individual workers and engagements.
 - [Preventing discrimination when employing people](https://www.gov.uk/employer-preventing-discrimination) - Protected characteristics and fair recruitment responsibilities.
 - [Check a job applicant's right to work](https://www.gov.uk/check-job-applicant-right-to-work) - The official online and document-check routes.
+- [Right to work checks: an employer's guide](https://www.gov.uk/government/publications/right-to-work-checks-employers-guide) - The Home Office's detailed guidance on initial and follow-up checks, TUPE transfers and acceptable documents.
 - [DBS checks for employers](https://www.gov.uk/dbs-check-applicant-criminal-record) - When and how an employer can request a criminal record check.
 - [Written statements of employment particulars](https://www.gov.uk/employment-contracts-and-conditions/written-statement-of-employment-particulars) - The information employers must give workers and employees.
 - [PAYE and payroll for employers](https://www.gov.uk/paye-for-employers) - HMRC's guide to payroll records, reporting, deductions and payments.
+- [Rates and thresholds for employers 2026 to 2027](https://www.gov.uk/guidance/rates-and-thresholds-for-employers-2026-to-2027) - HMRC's figures for PAYE, National Insurance, the minimum wage, statutory pay and student loan deductions.
 - [National Minimum Wage calculator for employers](https://www.gov.uk/minimum-wage-calculator-employers) - The official check that pay meets the minimum wage.
 - [The Pensions Regulator: employers](https://www.thepensionsregulator.gov.uk/en/employers) - Automatic enrolment duties and how to meet them.
 - [Statutory Sick Pay employer guide](https://www.gov.uk/employers-sick-pay) - Eligibility, current rates and what employers have to do.

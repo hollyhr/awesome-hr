@@ -44,6 +44,7 @@
 - [Acas flexible working guidance](https://www.acas.org.uk/flexible-working) - Practical advice on handling requests well, beyond the legal minimum.
 - [Managing staff redundancies](https://www.acas.org.uk/manage-staff-redundancies) - Planning, consultation, selection and support, step by step.
 - [Reasonable adjustments at work](https://www.acas.org.uk/reasonable-adjustments) - How to discuss, agree and review adjustments with disabled staff.
+- [Fit note: guidance for employers and line managers](https://www.gov.uk/government/publications/fit-note-guidance-for-employers-and-line-managers) - What each part of a fit note means and how to act on its advice to support an employee's return to work.
 - [Acas: Employment Rights Act 2025](https://www.acas.org.uk/employment-rights-act-2025) - What has already changed under the Act, what is still to come and when, with links to relevant Acas advice.
 - [Employment statutory code of practice](https://www.equalityhumanrights.com/equality/equality-act-2010/codes-practice/employment-statutory-code-practice) - The Equality and Human Rights Commission's guide to applying equality law at work.
 - [HSE Management Standards for work-related stress](https://www.hse.gov.uk/stress/standards/) - A framework for spotting and managing common causes of stress at work.
@@ -84,6 +85,7 @@
 - [1EdTech Comprehensive Learner Record](https://www.1edtech.org/standards/clr) - A shareable record of skills, competencies and achievements.
 - [Open Skills Network](https://www.openskillsnetwork.org/) - A coalition working on open, machine-readable skills data.
 - [Rich Skill Descriptors](https://www.openskillsnetwork.org/rsd) - A portable format that gives each skill a definition, context and links to related skills.
+- [ESCO](https://esco.ec.europa.eu/en) - The EU's multilingual classification of occupations and skills, free to download or query through its API.
 
 ## Contributing
 

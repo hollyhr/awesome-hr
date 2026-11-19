@@ -1,11 +1,23 @@
-# Security policy
+# Security
+
+Please do not report a suspected vulnerability in a public issue or pull
+request.
+
+Email **security@hollyhr.com**, or use **Report a vulnerability** in this
+repository's Security tab. Include the affected entry or workflow, the impact
+and safe steps to reproduce. Never include real employee records, credentials,
+API keys or webhook secrets.
+
+HollyHR's
+[vulnerability disclosure policy](https://www.hollyhr.com/security/disclosure)
+covers this repository and HollyHR's hosted services. It sets out what is in
+scope, the rules for testing and what we promise: an acknowledgement within 2 UK
+business days, updates until the problem is resolved, no legal action for
+good-faith research that follows the policy, and credit if you want it. HollyHR
+does not run a paid bug bounty.
 
 This repository contains links and documentation rather than executable HR
 software. Please still report malicious destinations, compromised resources,
-unsafe workflow behaviour or accidental disclosure privately.
-
-Use GitHub's **Report a vulnerability** action on the repository Security page.
-Do not include secrets, personal data or exploit details in a public issue.
-
-Broken links, outdated descriptions and ordinary catalogue corrections can use
-a pull request or public issue.
+unsafe workflow behaviour or accidental disclosure privately. Broken links,
+outdated descriptions and ordinary catalogue corrections can use a pull request
+or public issue.

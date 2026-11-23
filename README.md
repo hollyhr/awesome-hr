@@ -8,6 +8,7 @@
 - [UK workplace practice](#uk-workplace-practice)
 - [UK privacy and safety](#uk-privacy-and-safety)
 - [UK skills and apprenticeships](#uk-skills-and-apprenticeships)
+- [International employment law and practice](#international-employment-law-and-practice)
 - [Accessibility and security](#accessibility-and-security)
 - [Open-source HR software](#open-source-hr-software)
 - [HR data standards](#hr-data-standards)
@@ -63,6 +64,10 @@
 
 - [Employing an apprentice](https://www.gov.uk/guidance/how-to-take-on-an-apprentice) - Contracts, training and employer duties, with funding rules for England.
 - [National Careers Service skills assessment](https://nationalcareers.service.gov.uk/skills-assessment) - A free starting point for reflecting on skills and suitable work.
+
+## International employment law and practice
+
+- [NATLEX](https://natlex.ilo.org/) - The International Labour Organization's database of national labour, social security and related human rights laws, with full texts or abstracts for checking the rules in another country.
 
 ## Accessibility and security
 

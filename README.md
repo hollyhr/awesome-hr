@@ -8,6 +8,7 @@
 - [UK workplace practice](#uk-workplace-practice)
 - [UK privacy and safety](#uk-privacy-and-safety)
 - [UK skills and apprenticeships](#uk-skills-and-apprenticeships)
+- [International employment law and practice](#international-employment-law-and-practice)
 - [Accessibility and security](#accessibility-and-security)
 - [Open-source HR software](#open-source-hr-software)
 - [HR data standards](#hr-data-standards)
@@ -23,6 +24,7 @@
 - [Preventing discrimination when employing people](https://www.gov.uk/employer-preventing-discrimination) - Protected characteristics and fair recruitment responsibilities.
 - [Check a job applicant's right to work](https://www.gov.uk/check-job-applicant-right-to-work) - The official online and document-check routes.
 - [Right to work checks: an employer's guide](https://www.gov.uk/government/publications/right-to-work-checks-employers-guide) - The Home Office's detailed guidance on initial and follow-up checks, TUPE transfers and acceptable documents.
+- [Sponsorship: guidance for employers and educators](https://www.gov.uk/government/collections/sponsorship-information-for-employers-and-educators) - UK Visas and Immigration's guidance on applying for a sponsor licence, sponsoring workers or students and meeting sponsor duties.
 - [DBS checks for employers](https://www.gov.uk/dbs-check-applicant-criminal-record) - When and how an employer can request a criminal record check.
 - [Written statements of employment particulars](https://www.gov.uk/employment-contracts-and-conditions/written-statement-of-employment-particulars) - The information employers must give workers and employees.
 - [PAYE and payroll for employers](https://www.gov.uk/paye-for-employers) - HMRC's guide to payroll records, reporting, deductions and payments.
@@ -62,6 +64,10 @@
 
 - [Employing an apprentice](https://www.gov.uk/guidance/how-to-take-on-an-apprentice) - Contracts, training and employer duties, with funding rules for England.
 - [National Careers Service skills assessment](https://nationalcareers.service.gov.uk/skills-assessment) - A free starting point for reflecting on skills and suitable work.
+
+## International employment law and practice
+
+- [NATLEX](https://natlex.ilo.org/) - The International Labour Organization's database of national labour, social security and related human rights laws, with full texts or abstracts for checking the rules in another country.
 
 ## Accessibility and security
 

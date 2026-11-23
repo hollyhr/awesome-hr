@@ -8,4 +8,7 @@ exclude = [
   # pages load normally in a browser (checked 8 November 2026).
   "^https://ico\\.org\\.uk/for-organisations/uk-gdpr-guidance-and-resources/employment/$",
   "^https://ico\\.org\\.uk/for-organisations/advice-for-small-organisations/$",
+  # natlex.ilo.org returned a Cloudflare 403 to automated checks on 23 November
+  # 2026. Exception approved by the maintainer the same day.
+  "^https://natlex\\.ilo\\.org/$",
 ]

@@ -23,6 +23,7 @@
 - [Preventing discrimination when employing people](https://www.gov.uk/employer-preventing-discrimination) - Protected characteristics and fair recruitment responsibilities.
 - [Check a job applicant's right to work](https://www.gov.uk/check-job-applicant-right-to-work) - The official online and document-check routes.
 - [Right to work checks: an employer's guide](https://www.gov.uk/government/publications/right-to-work-checks-employers-guide) - The Home Office's detailed guidance on initial and follow-up checks, TUPE transfers and acceptable documents.
+- [Sponsorship: guidance for employers and educators](https://www.gov.uk/government/collections/sponsorship-information-for-employers-and-educators) - UK Visas and Immigration's policy guidance, codes of practice and system manuals for organisations sponsoring workers or students.
 - [DBS checks for employers](https://www.gov.uk/dbs-check-applicant-criminal-record) - When and how an employer can request a criminal record check.
 - [Written statements of employment particulars](https://www.gov.uk/employment-contracts-and-conditions/written-statement-of-employment-particulars) - The information employers must give workers and employees.
 - [PAYE and payroll for employers](https://www.gov.uk/paye-for-employers) - HMRC's guide to payroll records, reporting, deductions and payments.

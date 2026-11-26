@@ -36,6 +36,7 @@
 - [Maternity pay and leave](https://www.gov.uk/maternity-pay-leave) - Statutory eligibility, notice, leave and pay.
 - [Paternity pay and leave](https://www.gov.uk/paternity-pay-leave) - Statutory eligibility, notice, leave and pay.
 - [Shared Parental Leave and Pay](https://www.gov.uk/shared-parental-leave-and-pay) - Eligibility and booking rules for parents sharing leave.
+- [Statutory Neonatal Care Pay and Leave: employer guide](https://www.gov.uk/employers-neonatal-care-pay-leave) - Eligibility, notice, pay rates and how employers can reclaim statutory pay.
 - [Carer's Leave](https://www.gov.uk/carers-leave) - Unpaid leave for employees with a dependant who needs long-term care.
 - [Flexible working](https://www.gov.uk/flexible-working) - The legal rules for making and deciding a flexible working request.
 
@@ -77,6 +78,7 @@
 
 ## Open-source HR software
 
+- [Dolibarr](https://github.com/Dolibarr/dolibarr) - Business software with modules for employee contracts, leave requests, expense claims, salary records and recruitment (GPL-3.0).
 - [Frappe HR](https://github.com/frappe/hrms) - HR and payroll software built on the Frappe framework (GPL-3.0).
 - [Horilla HR](https://github.com/horilla/horilla-hr) - Django-based HR software (LGPL-2.1).
 - [Odoo](https://github.com/odoo/odoo) - Business application suite with HR modules. Licences differ between the Community and Enterprise editions.
